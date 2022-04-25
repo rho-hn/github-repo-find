@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# view deployment https://gitrepo69.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
